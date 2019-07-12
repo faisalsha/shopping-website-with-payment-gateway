@@ -1,2 +1,3 @@
 # shopping-website-with-payment-gateway
 allows users to shop their favouite itemss on the go....
+clone this project and runserver open Browser and enjoy !!
